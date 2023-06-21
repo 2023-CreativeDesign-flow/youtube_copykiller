@@ -10,9 +10,10 @@
 ## 앱 사용영상   
 
 <div align="center">  
+  
 [![Thumbnail](https://github.com/2023-CreativeDesign-flow/youtube_copykiller/assets/102962030/752af007-b220-4f06-ab41-246693233d44)](https://youtu.be/4zSbQqDRctc)    
-</div>  
 
+</div>  
 
 ## 프론트엔드  
 https://github.com/2023-CreativeDesign-flow/frontend
