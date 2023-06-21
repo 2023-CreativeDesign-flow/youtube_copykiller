@@ -15,6 +15,13 @@
 
 </div>  
 
+
+## 개요
+  - 목적: 유튜브 전반의 저작물 저작권 보호  
+  - 사용 언어: Java, Javascript, Python, springboot, mysql
+  - 
+   
+
 ## 프론트엔드  
 https://github.com/2023-CreativeDesign-flow/frontend
 ## 백엔드  
