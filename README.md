@@ -16,7 +16,7 @@
 
 <div align="center">  
   
-[![Thumbnail](https://github.com/2023-CreativeDesign-flow/youtube_copykiller/assets/102962030/752af007-b220-4f06-ab41-246693233d44.png)](https://youtu.be/4zSbQqDRctc)    
+[![Thumbnail](https://user-images.githubusercontent.com/102962030/247513191-752af007-b220-4f06-ab41-246693233d44.png)](https://youtu.be/4zSbQqDRctc)    
 
 </div>  
 
