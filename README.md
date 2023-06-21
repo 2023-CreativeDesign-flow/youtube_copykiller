@@ -23,15 +23,19 @@
 
 ## 개요
   - 목적: 유튜브 전반의 저작물 저작권 보호  
-  - 사용 언어: Java, Javascript, Python, springboot, mysql
-  - 
+  - 사용 언어
+    - 프론트엔드: javascript, react
+    - 백엔드: java, springboot framework
+    - 인공지능: python(keras, pytorch, etc)
    
 
-## 프론트엔드  
+
+## 코드 구조, 사용법
+### 프론트엔드  
 https://github.com/2023-CreativeDesign-flow/frontend
-## 백엔드  
+### 백엔드  
 https://github.com/2023-CreativeDesign-flow/backend
-## 인공지능  
+### 인공지능  
 https://github.com/2023-CreativeDesign-flow/inspection_machine  
 
 
