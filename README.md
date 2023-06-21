@@ -28,7 +28,10 @@
     - 백엔드: java, springboot framework
     - 인공지능: python(keras, pytorch, etc)
    
-
+## 빌드,개발 환경  
+  - 프론트엔드: aws ec3(ubuntu, java17), nodejs(v18.14)
+  - 백엔드: goorm IDE(ubuntu), spring boot tools suite 4 
+  - 인공지능: goorm IDE(ubuntu, gpu = NVIDIA Tesla T4), python(v3.9.5)
 
 ## 코드 구조, 사용법
 ### 프론트엔드  
