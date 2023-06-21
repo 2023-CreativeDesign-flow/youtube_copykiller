@@ -30,6 +30,12 @@ https://github.com/2023-CreativeDesign-flow/inspection_machine
     <img src="https://user-images.githubusercontent.com/102962030/206461747-4d56a152-6963-46ea-853a-603465037070.png", width=200, alt="dongwon", title="dongwon99"/>
   </a>
   <a href="https://github.com/doodaad">
-    <img src="https://avatars.githubusercontent.com/u/102963278?v=4", width=200, alt="hyeji", title="doodaad"/>
+    <img src="https://avatars.githubusercontent.com/u/102963278?v=4", width=200, alt="junwoo", title="doodaad"/>
+  </a>
+  <a href="https://github.com/Mkyupark">
+    <img src="https://avatars.githubusercontent.com/u/102354411?v=4", width=200, alt="Mkyupark", title="Mkyupark"/>
+  </a>
+  <a href="https://github.com/seolsis">
+    <img src="https://avatars.githubusercontent.com/u/88234067?v=4", width=200, alt="seolsis", title="seolsis"/>
   </a>
 </div>
